@@ -1,0 +1,41 @@
+commit 8c608b56299045d946dc389c59f2c288ad849dea
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 03:37:09 2022 -0300
+
+    Cambio de maestria
+
+commit 79fcc19e4cefb3399f14038044a84d79ace9cfcd
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 03:36:39 2022 -0300
+
+    Cambio de vida
+
+commit 71a0847edb04c0126feee31fa561370c4173129a
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 03:35:05 2022 -0300
+
+    mi proyect
+
+commit 80d0b652a11567d186495087cebab63fb59c12b3
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 01:49:07 2022 -0300
+
+    Cambios si hubo
+
+commit ecc68cf1589500a9b8ae04777257d4d5d3138884
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 01:47:50 2022 -0300
+
+    Agregamos un cambio a su archivo
+
+commit 6562d91b34da7a9201ed9e61f3d74290d8a98e22
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 01:39:11 2022 -0300
+
+    version2
+
+commit b6694779db5d1f45d457752077561d91dd636d81
+Author: Oscar Demaria <omgdemaria@gmail.com>
+Date:   Sun Mar 27 01:36:48 2022 -0300
+
+    version1
